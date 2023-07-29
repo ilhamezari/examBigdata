@@ -1,0 +1,12 @@
+id,description,no_avion,date
+1,"Problème de moteur",AV123,2023-06-22
+2,"Fuite de carburant",AV456,2023-06-22
+3,"Panne électrique",AV123,2023-06-23
+4,"Incident mineur",AV789,2023-06-23
+5,"Problème de moteur",AV456,2023-06-24
+6,"Problème de train d'atterrissage",AV123,2023-06-24
+7,"Fuite de carburant",AV123,2023-06-24
+8,"Incident mineur",AV789,2023-06-25
+9,"Problème de moteur",AV456,2023-06-25
+10,"Panne électrique",AV123,2023-06-25
+
